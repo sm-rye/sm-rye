@@ -2,7 +2,7 @@
 
 사용자의 흐름과 상태 변화를 구조적으로 설계하는 4년 차 프론트엔드 개발자입니다.
 
-React와 TypeScript를 중심으로 서버 상태·클라이언트 상태·URL 상태의 경계를 명확히 나누고, 기능이 확장되어도 변경 범위가 예측 가능한 구조를 만드는 데 관심이 있습니다. 필요한 백엔드 API와 배포·검증 환경까지 직접 연결하며 제품의 전체 흐름을 이해하려고 합니다.
+React와 TypeScript를 중심으로 웹과 Electron 데스크톱 환경을 다룹니다. 서버 상태·클라이언트 상태·URL 상태의 경계를 명확히 나누고, 기능이 확장되어도 변경 범위가 예측 가능한 구조를 만드는 데 관심이 있습니다. 필요한 백엔드 API와 배포·검증 환경까지 직접 연결하며 제품의 전체 흐름을 이해하려고 합니다.
 
 ## What I value
 
@@ -21,6 +21,8 @@ React와 TypeScript를 중심으로 서버 상태·클라이언트 상태·URL �
 
 ## Tech
 
-- **Frontend:** React, TypeScript, Next.js, Vite, TanStack Query, Zustand, Tailwind CSS
-- **Backend & Data:** Node.js, Express, Prisma, PostgreSQL
-- **Workflow:** GitHub Actions, Vercel
+- **Frontend:** React, TypeScript, JavaScript, Next.js, TanStack Query, Zustand
+- **Desktop:** Electron
+- **UI:** Tailwind CSS, styled-components, MUI, Emotion, React Hook Form, Framer Motion
+- **Backend & Data:** Node.js, Express, Prisma, Sequelize, PostgreSQL, MySQL, Firebase
+- **Workflow:** Vite, GitHub Actions, Yarn·pnpm Workspaces, Vercel

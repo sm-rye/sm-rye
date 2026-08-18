@@ -4,6 +4,8 @@
 
 React와 TypeScript를 중심으로 웹과 Electron 데스크톱 환경을 다룹니다. 서버 상태·클라이언트 상태·URL 상태의 경계를 명확히 나누고, 기능이 확장되어도 변경 범위가 예측 가능한 구조를 만드는 데 관심이 있습니다. 필요한 백엔드 API와 배포·검증 환경까지 직접 연결하며 제품의 전체 흐름을 이해하려고 합니다.
 
+**[Portfolio](https://mint-thought-8d8.notion.site/38fcbcf4b3a780ac9c82d5df481d1a2d)** · **[Email](mailto:smr6764z@gmail.com)**
+
 ## What I value
 
 - 복잡한 사용자 흐름을 컴포넌트와 도메인 경계로 나눕니다.
